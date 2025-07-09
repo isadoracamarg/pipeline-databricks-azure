@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-alura",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "68cdf927-a58a-4ac9-afb1-154cc204c575",
+		"tenantId": "b543a386-6497-4847-bfa6-73c1b2b05280"
+	}
+}
